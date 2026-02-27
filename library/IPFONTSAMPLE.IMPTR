@@ -1,0 +1,6 @@
+(FONTSAMPLE NIL FontSample NIL (NIL) 95)
+(FONT% MAPPINGS NIL font% mappings NIL (NIL) 95)
+(ENVIRONMENTAL% AND% LISP% MAPPINGS NIL environmental% and% Lisp% mappings NIL (NIL) 95)
+(FNT.MAKEBOOK (function) NIL NIL (NIL) 95)
+(FNT.DISPTBLE (function) NIL NIL (NIL) 96)
+(FNT.DISPLOOK (function) NIL NIL (NIL) 96)
